@@ -1,0 +1,14 @@
+transformers
+torch
+tokenizers
+fastapi
+uvicorn
+python-multipart
+pypdf
+langchain
+numpy
+sentence_transformers
+sentencepiece
+accelerate
+chromadb
+tiktoken
