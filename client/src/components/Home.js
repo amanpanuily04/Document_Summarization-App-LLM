@@ -21,7 +21,7 @@ function Home() {
         {/* About Section */}
         <section className="about-section">
           <p className="about-paragraph">
-            Document Summarizer is your go-to solution for converting large, complex documents into short, easy-to-understand summaries. Whether you're a student, a professional, or just someone managing lots of information, our tool saves you time and effort while ensuring accuracy and security.
+          Most Welcome AMAN  Document Summarizer is your go-to solution for converting large, complex documents into short, easy-to-understand summaries. Whether you're a student, a professional, or just someone managing lots of information, our tool saves you time and effort while ensuring accuracy and security.
           </p>
           <p className="about-paragraph highlight">
             <span className="upload-link" onClick={handleGetStarted}>
