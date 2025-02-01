@@ -12,7 +12,7 @@ function Home() {
   return (
     <div className="home-container">
       <header className="home-header">
-        <h1 className="home-title">Welcome to Document Summarizer 🌟 Most Welcome AMAN</h1>
+        <h1 className="home-title">Welcome to Document Summarizer 🌟</h1>
         <p className="home-subtitle">
           Transform lengthy documents into concise summaries with ease and speed!
         </p>
@@ -21,7 +21,7 @@ function Home() {
         {/* About Section */}
         <section className="about-section">
           <p className="about-paragraph">
-          Most Welcome AMAN  Document Summarizer is your go-to solution for converting large, complex documents into short, easy-to-understand summaries. Whether you're a student, a professional, or just someone managing lots of information, our tool saves you time and effort while ensuring accuracy and security.
+           Document Summarizer is your go-to solution for converting large, complex documents into short, easy-to-understand summaries. Whether you're a student, a professional, or just someone managing lots of information, our tool saves you time and effort while ensuring accuracy and security.
           </p>
           <p className="about-paragraph highlight">
             <span className="upload-link" onClick={handleGetStarted}>
