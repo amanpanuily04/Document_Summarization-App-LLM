@@ -12,7 +12,7 @@ function Home() {
   return (
     <div className="home-container">
       <header className="home-header">
-        <h1 className="home-title">Welcome to Document Summarizer 🌟</h1>
+        <h1 className="home-title">Welcome to Document Summarizer 🌟 Most Welcome AMAN</h1>
         <p className="home-subtitle">
           Transform lengthy documents into concise summaries with ease and speed!
         </p>
